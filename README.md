@@ -1,5 +1,7 @@
 ## Make sqlite/sqlcipher amalgamation using Visual Studio Command Prompt
 
+### Please check [simplier way](https://github.com/9241304/sqlcipher-fetch-and-build-inside-cmake-project) to build sqlcipher for Windows 
+
 ### Prerequisites
 1. Download and install Tcl ([recommended link](http://http://www.magicsplat.com/tcl-installer/index.html))
 2. Add tcl tools to PATH. You can skip this step, but make sure you made SET "PATH=%PATH%;c:\path\to\tcl\tools" in Visual Studio Command Prompt
